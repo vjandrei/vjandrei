@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning ...
+🌱 I’m currently learning Vue.js and Vuex ...
 
 <!--
 **vjandrei/vjandrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
