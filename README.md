@@ -9,6 +9,9 @@
 }
 ```
 
+I am Andreas Koutsoukos, a creative developer and designer from Finland. I specialize in innovative solutions and user-centered designs, delivering high-quality, functional and visually appealing products. I stay updated with the latest trends and technologies and am dedicated to creating unique and engaging experiences for my clients and users.
+
+
 ### Little more about me 🧑🏻‍💻
 
 ```javascript
@@ -37,29 +40,6 @@ const vjandrei = {
 
 
 🌱 I’m currently learning Vue.js and Vuex ...
-
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
-
 
 
 <!--
