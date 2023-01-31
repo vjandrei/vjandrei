@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+#andreaskoutsoukos { 
+  position: Finland; 
+  display: father; 
+  background: Inquisitive Learner 🔨; 
+  color: white 
+}
+
 🌱 I’m currently learning Vue.js and Vuex ...
 
 <!--
