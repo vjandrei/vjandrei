@@ -1,4 +1,4 @@
-### Hi there, I am Andreas Koutsoukos, a creative developer and designer from Finland 👋
+### 👋 Hi there, I am Andreas Koutsoukos, a creative developer and designer from Finland 
 
 ```css
 #andreaskoutsoukos { 
@@ -13,7 +13,7 @@ Specialize in innovative solutions and user-centered designs, delivering high-qu
 Stay updated with the latest trends and technologies and am dedicated to creating unique and engaging experiences for my clients and users.
 
 
-### Little more about me 🧑🏻‍💻
+### 🧑🏻‍💻 Little more about me 
 
 ```javascript
 const vjandrei = {
@@ -40,10 +40,10 @@ const vjandrei = {
 ```
 
 
-🌱 I’m currently learning Vue.js and Vuex ...
 
 
-<h3>Open source projects</h3>
+###🏻🥽 Open source projects
+
 <table width="100%">
   <thead align="center">
     <tr border: none;>
@@ -69,7 +69,7 @@ const vjandrei = {
 **vjandrei/vjandrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🌱 I’m currently learning Vue.js and Vuex ...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
