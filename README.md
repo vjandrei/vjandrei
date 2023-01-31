@@ -24,7 +24,7 @@ const vjandrei = {
         frontEnd: {
             js: ["Typescript", "Angular", "Vue"],
             style: ["scss"]
-        }
+        },
         backEnd: {
             js: ["Node", "Fastify", "Express"],
         },
