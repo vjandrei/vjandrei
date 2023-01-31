@@ -22,7 +22,7 @@ const vjandrei = {
     askMeAbout: ["web dev", "tech", "app dev", "Iot", "3D printing"],
     technologies: {
         frontEnd: {
-            js: ["Typescript", "Angular", "Vue"]
+            js: ["Typescript", "Angular", "Vue"],
             style: ["scss"]
         }
         backEnd: {
