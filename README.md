@@ -41,8 +41,7 @@ const vjandrei = {
 
 
 
-
-###🏻🥽 Open source projects
+### 🥽 Open source projects
 
 <table width="100%">
   <thead align="center">
