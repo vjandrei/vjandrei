@@ -29,7 +29,9 @@ const vjandrei = {
         misc: ["Firebase", "php", "Processing", "Linux", "Arduino","Raspberrypi"]
     },
     architecture: ["Jamstack", "Serverless Architecture", "Progressive web applications", "Single page applications"],
-    funFact: "I am a former fine dining cook, showcasing my skills and creativity through experimenting with flavors and ingredients to make visually appealing and delicious dishes. Each dish was a work of art, not just a recipe."
+    funFact: "I am a former fine dining cook, showcasing my skills and creativity through experimenting 
+    with flavors and ingredients to make visually appealing and delicious dishes. 
+    Each dish was a work of art, not just a recipe."
 };
 ```
 
