@@ -43,7 +43,6 @@ const vjandrei = {
 🌱 I’m currently learning Vue.js and Vuex ...
 
 
-```html
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -65,8 +64,6 @@ const vjandrei = {
     </tr>
   </tbody>
 </table>
-```
-
 
 <!--
 **vjandrei/vjandrei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
