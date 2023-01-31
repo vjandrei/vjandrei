@@ -9,7 +9,9 @@
 }
 ```
 
-I am Andreas Koutsoukos, a creative developer and designer from Finland. I specialize in innovative solutions and user-centered designs, delivering high-quality, functional and visually appealing products. I stay updated with the latest trends and technologies and am dedicated to creating unique and engaging experiences for my clients and users.
+## I am Andreas Koutsoukos, a creative developer and designer from Finland. 
+Specialize in innovative solutions and user-centered designs, delivering high-quality, functional and visually appealing products. 
+Stay updated with the latest trends and technologies and am dedicated to creating unique and engaging experiences for my clients and users.
 
 
 ### Little more about me 🧑🏻‍💻
